@@ -1,0 +1,95 @@
+.navbar {
+    background-color: #646464;
+}
+.navbar-button-left {
+    background-color: #9696C8;
+    font-family: Ubuntu;
+    font-size: 50px;
+    border: 5px solid #000000;
+    margin: 10px;
+}
+
+.navbar-button {
+    background-color: #9696C8;
+    font-family: Ubuntu;
+    font-size: 50px;
+    border: 5px solid #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.breakfast {
+    background-color: #888888;
+}
+
+.breakfast-button-left {
+    background-color: #9696C8;
+    font-family: Ubuntu;
+    font-size: 40px;
+    border: 5px solid #000000;
+    margin: 10px;
+    width: 438px;
+    height: 438px;
+}
+
+.breakfast-button {
+    background-color: #9696C8;
+    font-family: Ubuntu;
+    font-size: 40px;
+    border: 5px solid #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    width: 438px;
+    height: 438px;
+}
+
+.home-recipe {
+    background-color: #9696C8;
+    font-family: Ubuntu;
+    font-size: 40px;
+    border: 5px solid #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 200px;
+    width: 438px;
+    height: 438px;
+}
+
+.recipe-text{
+    font-family: Ubuntu;
+    font-size: 22px;
+}
+
+h1 {
+    font-family: Ubuntu;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: Ubuntu;
+    font-size: 40px;
+}
+
+h3 {
+    font-family: Ubuntu;
+    font-size: 35px;
+}
+
+hr {
+    border: 2px solid black
+}
+
+ol {
+    font-family: Ubuntu;
+    font-size: 22px;
+    text-indent: 10px;
+}
+
+ul {
+    font-family: Ubuntu;
+    font-size: 22px;
+    text-indent: 10px;
+}
